@@ -1,0 +1,6 @@
+streamlit 
+prophet 
+yfinance 
+plotly
+pyproject-toml
+numpy==1.21.0
